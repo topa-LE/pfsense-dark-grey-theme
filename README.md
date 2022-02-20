@@ -2,7 +2,7 @@ A **Dark-Grey** theme for [pfSense 2.6.0](https://github.com/pfsense/pfsense)
 
 ## Screenshots
 ![Dark-Grey](screen-dark-grey-full.png)
-|:---:|:---:|
+
 
 ## Install
 1. Connected SSH-Console on pfSense
