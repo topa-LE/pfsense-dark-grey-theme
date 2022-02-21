@@ -444,5 +444,8 @@ background-color : #91a6c6;
 border : #91a6c6 solid 1px;
 border-radius : 4px;
 }
+.text-danger {
+color : #fa2c2c;
+}
 
 /* tpDEsign */
